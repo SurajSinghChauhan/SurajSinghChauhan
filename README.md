@@ -1,8 +1,21 @@
 ___________________________________
-###  𝑯𝒐𝒍𝒂 , 𝑰'𝒎 𝑺𝒖𝒓𝒂𝒋 👋     
-_______________________________________________________________________________   <img height="250em" src="https://github.com/SurajSinghChauhan/How_toAdd_img_TO_GITHUB/blob/main/work1.jpg"/>
+### Hi there, I'm Suraj Kumar Singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]()
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]()
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]()  
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SurajSinghChauhan.SurajSinghChauhan)
+
+I am currently a student and a programmer. I love programming, drawing and traveling.
+
+As a Student i enjoy discovering and learning new things and try to utilise and contribute on open source projects. 
+
+<img align="right"  src="https://github.com/SurajSinghChauhan/How_toAdd_img_TO_GITHUB/blob/main/work1.jpg" width="408" height="318"/>
+
+**Talking about Personal Stuffs:**
 - 🔭 I’m currently Studying                                           |                                     
 - 🌱 I’m currently Persuing Btech                                     |
 - 👯 I’m looking to collaborate on Youtube                            |
@@ -12,6 +25,15 @@ _______________________________________________________________________________ 
 - 😄 Pronouns: HE/HIS                                                 |
 - ⚡ Fun fact: ...                                                    |
 --> 
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=SurajSinghChauhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=tokyonight"/>      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight"/>
 
