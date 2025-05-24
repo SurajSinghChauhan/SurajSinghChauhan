@@ -16,10 +16,10 @@ As a Student i enjoy discovering and learning new things and try to utilise and 
 <img align="right"  src="https://github.com/SurajSinghChauhan/How_toAdd_img_TO_GITHUB/blob/main/work1.jpg" width="408" height="318"/>
 
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently Studying                                           |                                     
-- 🌱 I’m currently Persuing Btech                                     |
+- 🔭 I’m a Software Developer                                         |                                     
+- 🌱 I’m at Fintech Company                                           |
 - 👯 I’m looking to collaborate on Youtube                            |
-- 🤔 I’m looking for help with ML Projects                            |
+- 🤔 I’m looking to collaborate on .Net projects                      |
 - 💬 Ask me about CP                                                  |  
 - 📫 How to reach me: surajkrsingh825@gmail.com                       |
 - 😄 Pronouns: HE/HIS                                                 |
