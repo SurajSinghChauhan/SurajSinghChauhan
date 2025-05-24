@@ -9,9 +9,9 @@ ___________________________________
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SurajSinghChauhan.SurajSinghChauhan)
 
-I am currently a student and a programmer. I love programming, drawing and traveling.
+I am a Fullstack developer at fintech Company, had knowledge of Adtech too as worked previously with Tsunisia team. I love programming, drawing and traveling.
 
-As a Student i enjoy discovering and learning new things and try to utilise and contribute on open source projects. 
+As a developer i enjoy discovering and learning new things and try to utilise and contribute on open source projects. 
 
 <img align="right"  src="https://github.com/SurajSinghChauhan/How_toAdd_img_TO_GITHUB/blob/main/work1.jpg" width="408" height="318"/>
 
