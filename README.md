@@ -7,7 +7,8 @@ ___________________________________
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]()
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]()  
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SurajSinghChauhan.SurajSinghChauhan)
+### Glad to see you here!
+<!-- &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SurajSinghChauhan.SurajSinghChauhan) -->
 
 I am a Fullstack developer at fintech Company, had knowledge of Adtech too as worked previously with Tsunisia team. I love programming, drawing and traveling.
 
