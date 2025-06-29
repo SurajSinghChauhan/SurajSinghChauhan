@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Suraj Kumar Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/suraj-kumar-singh-7348361a9/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white"></a>
