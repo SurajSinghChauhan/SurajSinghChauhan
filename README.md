@@ -36,6 +36,9 @@ I'm a passionate **Software Developer** with experience in **Fintech** and a bac
 #### 🗄 Databases
 - Microsoft SQL Server, PostgreSQL, MongoDB, Redis
 
+#### 🔧 Messaging & Streaming
+- Apache Kafka, RabbitMQ
+
 #### ☁️ Cloud & DevOps
 - Amazon Web Services (AWS)
 
@@ -73,6 +76,12 @@ I'm a passionate **Software Developer** with experience in **Fintech** and a bac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40px" />
+  <!-- Apache Kafka -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40px" alt="Apache Kafka"/>
+
+  <!-- RabbitMQ -->
+  <img src="https://logo.svgcdn.com/l/rabbitmq-icon.svg" width="40px" alt="RabbitMQ" />
+
 <!-- Existing icons above -->
  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40px" alt="AWS"/>
  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/48/microsoft-azure-icon.png" width="40px" alt="Azure"/>
